@@ -1,5 +1,5 @@
 name:                polyvar-hello-world
-version:             0.1.0.0
+version:             1.0.0.0
 synopsis:            A polyvariadic "Hello World", using Cabal and Stack.
 description:         Just a simple Haskell "Hello World" using homemade
                      polyvariadic function.
